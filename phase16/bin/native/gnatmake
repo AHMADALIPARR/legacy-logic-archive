@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2026 Ahmad Ali Parr. All rights reserved.
+# Authored by Ahmad Ali Parr.
+#!/bin/sh
+
+exec \
+  "$PHASE16_ROOT/toolchain/root/usr/bin/gnatmake-14" \
+  -B"$PHASE16_ROOT/toolchain/root/usr/lib/gcc/x86_64-linux-gnu/14/" \
+  "$@"

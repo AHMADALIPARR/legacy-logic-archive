@@ -1,0 +1,12 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2026 Ahmad Ali Parr. All rights reserved.
+# Authored by Ahmad Ali Parr.
+#!/bin/sh
+set -eu
+
+ERLC_EMULATOR="$PHASE16_ROOT/bin/native/erl"
+export ERLC_EMULATOR
+
+exec \
+  "$PHASE16_ROOT/toolchain/root/usr/lib/erlang/erts-15.2.7/bin/erlc" \
+  "$@"

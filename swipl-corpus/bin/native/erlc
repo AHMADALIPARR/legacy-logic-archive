@@ -1,0 +1,12 @@
+#!/bin/sh
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2026 Ahmad Ali Parr. All rights reserved.
+# Authored by Ahmad Ali Parr.
+set -eu
+
+ERLC_EMULATOR="$SWIPL_CORPUS_ROOT/bin/native/erl"
+export ERLC_EMULATOR
+
+exec \
+  "$SWIPL_CORPUS_ROOT/toolchain/root/usr/lib/erlang/erts-15.2.7/bin/erlc" \
+  "$@"

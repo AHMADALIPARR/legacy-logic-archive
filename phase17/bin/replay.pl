@@ -1,7 +1,7 @@
+#!/usr/bin/perl
 # SPDX-License-Identifier: GPL-3.0-or-later
 # Copyright (c) 2026 Ahmad Ali Parr. All rights reserved.
 # Authored by Ahmad Ali Parr.
-#!/usr/bin/perl
 use strict;
 use warnings;
 use FindBin;

@@ -1,0 +1,5 @@
+name	url	kind	status	purpose
+NASA-Open-Source-Catalog	https://github.com/nasa/Open-Source-Catalog	catalog	verified-public	Discover NASA repositories and rights metadata
+NASA-code-nasa-gov	https://github.com/nasa/code-nasa-gov	catalog-history	verified-public-archived	Historical NASA software catalog
+NASA-GitHub	https://github.com/nasa	organization	verified-public	Identify repositories containing Prolog files
+NASA-software	https://software.nasa.gov	software-catalog	verified-public	Locate legacy expert systems and restricted-release flags

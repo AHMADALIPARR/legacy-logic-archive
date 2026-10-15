@@ -1,0 +1,22 @@
+family	name	url	language	focus	license_review	fetch_status
+NATS	nats-server	https://github.com/nats-io/nats-server	Go	server, JetStream, clustering, auth	pending	not_downloaded
+NATS	nats.go	https://github.com/nats-io/nats.go	Go	client, JetStream	pending	not_downloaded
+NATS	nats.rs	https://github.com/nats-io/nats.rs	Rust	async client	pending	not_downloaded
+NATS	nats-architecture-and-design	https://github.com/nats-io/nats-architecture-and-design	Docs	architecture decisions	pending	not_downloaded
+NATS	nats.ex	https://github.com/nats-io/nats.ex	Elixir	Gnat client, JetStream	pending	not_downloaded
+Erlang	otp	https://github.com/erlang/otp	Erlang/C	BEAM, OTP libraries, distribution	pending	not_downloaded
+Elixir	elixir	https://github.com/elixir-lang/elixir	Elixir/Erlang	compiler, standard library, Mix	pending	not_downloaded
+Elixir	phoenix	https://github.com/phoenixframework/phoenix	Elixir	channels, endpoint	pending	not_downloaded
+Elixir	phoenix_live_view	https://github.com/phoenixframework/phoenix_live_view	Elixir	LiveView	pending	not_downloaded
+Elixir	phoenix_pubsub	https://github.com/phoenixframework/phoenix_pubsub	Elixir	pubsub	pending	not_downloaded
+Elixir	ecto	https://github.com/elixir-ecto/ecto	Elixir	database abstraction	pending	not_downloaded
+Elixir	broadway	https://github.com/dashbitco/broadway	Elixir	data ingestion	pending	not_downloaded
+NASA	NASA-Open-Source-Catalog	https://github.com/nasa/Open-Source-Catalog	Metadata	NASA official public software inventory	pending	not_downloaded
+NASA	NASA-code-nasa-gov	https://github.com/nasa/code-nasa-gov	Metadata	NASA historic software inventory	pending	not_downloaded
+Mainframe	MVS3.8	https://github.com/MainframeMojo/MVS3.8	JCL/COBOL	MVS 3.8 JCL jobs and COBOL programs	pending	not_downloaded
+Mainframe	MVS3.8-Cobol	https://github.com/alexanderbehrens1978/MVS3.8-Cobol	JCL/COBOL	MVS sample programs and compiler assets; review binary rights	pending	not_downloaded
+SAS	sas-code-examples	https://github.com/sassoftware/sas-code-examples	SAS	Official SAS examples; Apache-2.0 indicated	pending	not_downloaded
+SAS	sasjs-core	https://github.com/sasjs/core	SAS	Macro library	pending	not_downloaded
+SAS	sasutils-macros	https://github.com/sasutils/macros	SAS	Historical utility macros	pending	not_downloaded
+SAS	ts-sas-legacy-analytics	https://github.com/Cognition-Partner-Workshops/ts-sas-legacy-analytics	SAS	Representative migration demonstration, not authenticated historic production data	pending	not_downloaded
+Modula2	gcc	https://github.com/gcc-mirror/gcc	Modula-2	GNU Modula-2 compiler under gcc/m2	pending	not_downloaded

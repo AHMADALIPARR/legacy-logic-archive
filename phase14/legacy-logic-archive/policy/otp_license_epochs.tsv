@@ -1,0 +1,3 @@
+repository	release_range	license	first_release_date	training_status	evidence
+erlang/otp	before OTP-18.0	Erlang Public License	before 2015-06-24	review_required	https://www.erlang.org/downloads.html
+erlang/otp	OTP-18.0 and later	Apache-2.0	2015-06-24	component_review_required	https://www.erlang.org/news/86

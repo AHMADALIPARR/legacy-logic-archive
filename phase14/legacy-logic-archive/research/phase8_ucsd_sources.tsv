@@ -1,0 +1,8 @@
+id	url	type	rights_status
+UCSD-I5	https://www.msx.org/downloads/ucsd-pascal-p-system-i5-source-code	historic-source	CC-BY-NC-SA-3.0 claimed; review
+UCSD-OS	https://github.com/jdykstra/ucsd-psystem-os	git	review LICENSE-UCSD
+UCSD-XC	https://github.com/jdykstra/ucsd-psystem-xc	git	GPL-3.0-or-later
+UCSD-VM	https://github.com/jdykstra/ucsd-psystem-vm	git	review
+UCSD-FS	https://github.com/jdykstra/ucsd-psystem-fs	git	review
+UCSD-TREK	https://github.com/Jim-F/UCSD_p-Trek	git	review
+SUNDOG	https://github.com/laanwj/sundog	git	review

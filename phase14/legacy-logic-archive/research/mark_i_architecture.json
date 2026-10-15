@@ -1,0 +1,31 @@
+{
+  "name": "Mark I Perceptron",
+  "status": "historical reconstruction specification, not original netlist",
+  "sensory": {
+    "rows": 20,
+    "cols": 20,
+    "units": 400,
+    "type": "photoresistors"
+  },
+  "association": {
+    "units": 512,
+    "input_connections": "fixed pseudo-random plugboard"
+  },
+  "memory": {
+    "units": 512,
+    "mechanism": "motor-driven potentiometer wiper positions"
+  },
+  "response": {
+    "units": 8,
+    "mechanism": "threshold"
+  },
+  "sources": [
+    "DTIC AD0236965",
+    "DTIC AD0256582"
+  ],
+  "unverified": [
+    "individual wire map",
+    "original IBM 704 simulation listing",
+    "component-level schematics"
+  ]
+}

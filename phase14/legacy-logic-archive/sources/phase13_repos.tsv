@@ -1,0 +1,6 @@
+id	language	url	rights_status
+SWI-Prolog	Prolog	https://github.com/SWI-Prolog/swipl-devel.git	review-components
+Erlang-OTP	Erlang	https://github.com/erlang/otp.git	Apache-2.0-current
+Elixir	Elixir	https://github.com/elixir-lang/elixir.git	Apache-2.0-current
+GNAT-GCC	Ada	https://github.com/gcc-mirror/gcc.git	GPL-family-review
+UCSD-p-System	Pascal	https://github.com/jdykstra/ucsd-psystem-os.git	review-LICENSE-UCSD

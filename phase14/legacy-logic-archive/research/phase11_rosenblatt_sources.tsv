@@ -1,0 +1,6 @@
+id	year	title	author	identifier	url	kind	rights	notes
+MARKI-MANUAL	1960	Mark I Perceptron Operators Manual	Hay Lynch Smith	VG-1196-G-5 / DTIC AD0236965	https://apps.dtic.mil/	manual	rights_review	primary manual catalog reference; locate exact PDF
+ROSENBLATT-1961	1961	Principles of Neurodynamics research report	Frank Rosenblatt	DTIC AD0256582	https://archive.org/details/DTIC_AD0256582/	research report	rights_review	source report
+ROSENBLATT-1962	1962	Principles of Neurodynamics book	Frank Rosenblatt	VG-1196-G-8	https://www.cri.minesparis.psl.eu/people/silber/cours/2025/nlp/bib/RosenblattF1962.pdf	book	rights_review	do not assume redistributable
+NAVY-1960	1960	Navy computer research newsletter	US Navy	newsletter	https://columbia.edu/cu/computinghistory/navynewsletter1960.pdf	newsletter	rights_review	contemporary historical report
+MARKI-RECON	2026	Mark I architectural reconstruction specification	archive authors	derived	local	reconstruction	generated	not original hardware source

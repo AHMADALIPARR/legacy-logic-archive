@@ -1,0 +1,7 @@
+id	year	category	title	url	status	rights
+ada2005-gnat-601	2007	Ada compiler	GNAT Pro 6.0.1 announcement	https://www.adacore.com/press/gnat-pro-601	verified_public_document	copyright_review
+mbda-gnat	2007	Aerospace Ada	MBDA GNAT agreement	https://www.adacore.com/press/mbda-signs-global-software-licensing-agreement-with-adacore	verified_public_document	copyright_review
+topcased	2007	Safety critical tools	TOPCASED open source aerospace initiative	https://www.adacore.com/press/adacore-joins-topcased-project	verified_public_document	copyright_review
+gcc-gnat	2007-era	Ada compiler	GCC GNAT source history	https://gcc.gnu.org/git/	archive_candidate	GPL_review
+ada-reference	2005	Ada standard	Ada 2005 language reference	https://www.ada-auth.org/standards/ada05.html	archive_candidate	copyright_review
+nasa-cfs	modern	Spaceflight comparison	NASA cFS (C not Ada)	https://github.com/nasa/cFS	comparison_only	Apache-2.0_verify

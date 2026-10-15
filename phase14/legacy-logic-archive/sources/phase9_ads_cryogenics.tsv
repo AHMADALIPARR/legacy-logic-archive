@@ -1,0 +1,9 @@
+family	publisher	title	source_url	period	status	rights
+ADS	NXP	ADS MET Root LDMOS archive	https://www.nxp.com/products/radio-frequency-rf/rf-high-power-models/models-for-ads-keysight-advanced-design-system/archived-met-and-root-ldmos-models-for-agilents-ads:RF_HIGH_POWER_MODELS_ADS_ARCHIVED_LIBS	2000-2009	download-candidate	rights-review
+ADS	NXP	ADS 2006 2008 2009 model library	https://www.nxp.com/products/radio-frequency-rf/rf-high-power-models/models-for-ads-keysight-advanced-design-system/archived-met-and-root-ldmos-models-for-agilents-ads/archived-models-for-ads-agilent-advanced-design-system-2006-2008-and-2009:RF_LDMOS_ARCHIVED_AGLNTADS_SPDK	2006-2009	download-candidate	rights-review
+ADS	Johanson	Legacy ADS 2000-2009 libraries	https://www.johansontechnology.com/downloads/designer-libraries/keysight-ads-libraries/	2000-2009	download-candidate	rights-review
+ADS	AVX	2007 RF component library announcement	https://www.eetimes.com/ads-library-for-passive-components-simplifies-rf-circuit-design/	2007	metadata-only	publisher-rights
+CRYOGENICS	NIST	120Hz Pulse Tube Cryocooler for Fast Cooldown to 50K	https://www.nist.gov/publications/120hz-pulse-tube-cryocooler-fast-cooldown-50k	2007	metadata-only	paper-rights-review
+CRYOGENICS	NIST	Cryogenic Technologies Group website	https://www.nist.gov/publications/cryogenic-technologies-group-website	2007	metadata-only	rights-review
+CRYOGENICS	Elsevier	Thermoacoustically driven pulse tube cooler below 60K	https://www.sciencedirect.com/science/article/pii/S0011227507000537	2007	metadata-only	publisher-rights
+CRYOGENICS	Levy Lab	Leiden-FP-and-TC	https://github.com/levylabpitt/Leiden-FP-and-TC	modern	git-candidate	BSD-3-Clause

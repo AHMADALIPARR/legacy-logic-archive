@@ -1,0 +1,10 @@
+id	category	title	url	period	artifact_type	rights_status	fetch_status
+vhdl-std-1987	VHDL	IEEE 1076-1987	https://standards.ieee.org/ieee/1076/1609/	1987	standard	licensed_access	metadata_only
+vhdl-grammar	VHDL	VHDL-87 syntax	https://iis-people.ee.ethz.ch/~zimmi/download/vhdl87_syntax.html	1987-dialect	grammar	unknown	metadata_only
+vhdl-handbook	VHDL	The VHDL Handbook	https://www.scribd.com/document/463183982/1989-Bookmatter-TheVHDLHandbook	1989	book	unknown	metadata_only
+basic-atarimagazines	BASIC	Classic Computer Magazine Archive	https://www.atarimagazines.com/	1974-1995	magazine_index	permission_review	metadata_only
+basic-compute	BASIC	Compute magazine index	https://www.atarimagazines.com/compute/	1979-1994	magazine_index	permission_review	metadata_only
+basic-trs80	BASIC	TRS-80 magazines index	https://www.trs-80.com/main-search-magazines.htm	1970s-1990s	magazine_index	permission_review	metadata_only
+basic-creative	BASIC	Creative Computing scans	https://www.trs-80.com/sub-mag-creative.htm	1974-1985	magazine_scans	permission_review	metadata_only
+basic-compute-scans	BASIC	Compute PDF scans	https://colorcomputerarchive.com/repo/Documents/Magazines/Compute/	1979-1994	magazine_scans	permission_review	metadata_only
+basic-compute-git	BASIC	Compute type-in recreation	https://github.com/bdowne01/compute	1986-example	reconstructed_code	license_review	candidate

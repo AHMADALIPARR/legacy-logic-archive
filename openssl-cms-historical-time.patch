@@ -1,0 +1,10 @@
+--- test/cms-test.pl
++++ test/cms-test.pl
+@@ -560,6 +560,7 @@
+             exit 1 if $halt_err;
+             next;
+         }
++        $rvcmd .= " -attime 1434067200" if $rvcmd =~ /-verify/; # phase17: archived certificate validation time, including signed receipts
+         system("$vcmd$rvcmd$redir");
+         if ($?) {
+             print "$tnam: verify error\n";
